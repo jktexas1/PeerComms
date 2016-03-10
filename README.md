@@ -8,3 +8,5 @@ In order to test:
   invited users.
   
   If connecting to a call, choose a user name, enter in the ip address and port and click connect.
+  
+The jar file for this project is located in the dist folder and can be obtained by downloading a zip file of the project.
